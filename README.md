@@ -19,5 +19,5 @@ The results showcase the effectiveness of these techniques in solving real-world
 - `RTA Dataset.csv`: The dataset used in this analysis (if permissible to include).  
  
 ## 🔗 View Notebook  
-- [GitHub Notebook Link](path/to/notebook)  
-- [Nbviewer Rendered View](https://nbviewer.org/github/Rishithagovini/Road_accidents_dataanalysis/blob/main/Road_Accidents_Data_analysis.ipynb))  
+- [GitHub Notebook Link](https://github.com/Rishithagovini/Road_accidents_dataanalysis/blob/main/Road_Accidents_Data_analysis.ipynb)  
+- [Nbviewer Rendered View](https://nbviewer.org/github/Rishithagovini/Road_accidents_dataanalysis/blob/main/Road_Accidents_Data_analysis.ipynb)  
