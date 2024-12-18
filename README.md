@@ -16,7 +16,7 @@ The results showcase the effectiveness of these techniques in solving real-world
 
 ## 📁 Files  
 - `Road_Accidents_Analysis.ipynb`: The complete notebook with code, visualizations, and findings.  
-- `RTA Dataset.csv`: The dataset used in this analysis (if permissible to include).  
+- `RTA Dataset.csv`: The dataset used in this analysis.  
  
 ## 🔗 View Notebook  
 - [GitHub Notebook Link](https://github.com/Rishithagovini/Road_accidents_dataanalysis/blob/main/Road_Accidents_Data_analysis.ipynb)  
