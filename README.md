@@ -15,7 +15,7 @@ The results showcase the effectiveness of these techniques in solving real-world
 - **Techniques:** Cross-validation, Hyperparameter Tuning  
 
 ## 📁 Files  
-- `Road_Accidents_Analysis.ipynb`: The complete notebook with code, visualizations, and findings.  
+- `Road_Accidents_Data_Analysis.ipynb`: The complete notebook with code, visualizations, and findings.  
 - `RTA Dataset.csv`: The dataset used in this analysis.  
  
 ## 🔗 View Notebook  
